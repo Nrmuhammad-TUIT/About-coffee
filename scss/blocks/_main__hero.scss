@@ -1,0 +1,35 @@
+
+.main__hero {
+   display: flex;
+   align-items: center;
+   margin-bottom: 150px;
+}
+
+.main__hero__img {
+   width: 485px;
+   height: 606px;
+   margin-right: 125px;
+   border-radius: 5px;
+}
+
+.main__hero__info__title {
+   margin-top: 0;
+   margin-bottom: 32px;
+   font-family: "Fraunces" , serif;
+   font-style: normal;
+   font-weight: 900;
+   font-size: 40px;
+   line-height: 48px;
+   color: #333D4B;
+}
+
+.main__hero__info__text {
+   width: 540px;
+   margin-top: 0;
+   font-family: "Barlow" , "Arial" , sans-serif;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 16px;
+   line-height: 26px;
+   color: #333D4B;
+}
